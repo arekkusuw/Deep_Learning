@@ -1,4 +1,4 @@
-　I create this code with reference to Yusuke Sugomori(https://github.com/yusugomori), and  
+　I create this code with reference to Yusuke Sugomori(https://github.com/yusugomori), and  
 his book(https://www.amazon.co.jp/Java-Learning-Essentials-Yusuke-Sugomori-ebook/dp/B01956B5RQ).  
 I'm very grateful to him.  
 
