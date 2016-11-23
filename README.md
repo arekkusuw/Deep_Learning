@@ -7,4 +7,4 @@ I'm very grateful to him.
 
 ・I have not yet experimented whether errors propagate.(2016/11/23)
  
-・Although detail about code is not described at present, I'll add a explanation of the code to this place.
+・Although details about code are not described at present, I'll add to this place.
