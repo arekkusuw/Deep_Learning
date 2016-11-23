@@ -1,4 +1,4 @@
-import sys
+
 import numpy
 from utils import*
 from Conv_Pool_Layer import Conv_Pool_Layer
